@@ -33,7 +33,7 @@ Script merged the modified merged data with activity lookup to get activity desc
 
 ## Step 4
 
-Agains creates a list of columns names which will be cleaned.
+Again creates a list of columns names which will be cleaned.
 
 It then provides he description of various abbrevaitions used in column names to be more descriptive and meaningful.
 
